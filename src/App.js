@@ -52,7 +52,7 @@ loading:false}
       <div id="quote-box">
        <div> <Spinner /></div>
       <div>  <Spinner /></div>
-        <button onClick={this.changeQuote}>Change</button>
+        <button onClick={this.changeQuote}>Loading...</button>
       </div>
     );
   }
